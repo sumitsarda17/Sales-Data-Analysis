@@ -29,7 +29,12 @@ To answer these questions I performed many different pandas & matplotlib functio
 - Labeling our graphs
 - and many more..
 
-I explain every function that I used in this analysis with proper documentation in jupyter notebook only in understandable language or you can search for specific task like how to remove NaN from data on google and you can find everything related to it on stackoverflow.
+I explain every function that I used in this analysis with proper documentation in jupyter notebook only in understandable language or you can search for specific task like how to remove NaN from data on google and you can find everything related to it on stackoverflow. 
+
+there are one sample data folder which contains data for each month and I also uploaded CSV file which contains all the 12 months data in single CSV. You can directly use all_data.csv and start your analysis otherwise you have to first merge all the data just like I did.
+
+If my documenetation helps you to understand the code better then do star this repo and message me on LinkedIn 
+My LinedIn: linkedin.com/in/sumit-sarda17
 
 Credit to https://github.com/KeithGalli   as I referred from his youtube channel 
 
