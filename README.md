@@ -38,13 +38,4 @@ there are one sample data folder which contains data for each month and I also u
 If my documenetation helps you to understand the code better then do star this repo and message me on LinkedIn 
 My LinedIn: linkedin.com/in/sumit-sarda17
 
-Credit to https://github.com/KeithGalli   as I referred from his youtube channel 
 
-check out his amazing video if you want to learn Pandas and Matplotlib
-
-Pandas:
-https://youtu.be/vmEHCJofslg
-
-Matplotlib:
-https://youtu.be/DAQNHzOcO5A
-https://youtu.be/0P7QnIQDBJY
