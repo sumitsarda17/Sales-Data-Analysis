@@ -7,6 +7,8 @@ The other option is to click the green "clone or download" button and then click
 
 In this Project I use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
+# Background Information
+
 I started by cleaning the data. Tasks during this section include:
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
